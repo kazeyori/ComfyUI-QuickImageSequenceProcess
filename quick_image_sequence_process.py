@@ -1,3 +1,10 @@
+"""
+@author: junnpaku_11
+@title: Quick Image Sequence Process
+@nickname: QuickSeq
+@description: A ComfyUI plugin for efficient image sequence processing. Features frame insertion, duplication, and removal with intuitive controls.
+"""
+
 # quick_image_sequence_process.py
 import numpy as np
 import torch
